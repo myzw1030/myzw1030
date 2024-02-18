@@ -1,4 +1,3 @@
-##  My Status
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=myzw1030&theme=dark&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
 
 <p align="left"> 
